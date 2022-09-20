@@ -1,6 +1,6 @@
 # just-testing
 
-Para copiar o código antigo
+Para copiar o código arquivo HTML:
 ...
 
 <html>
